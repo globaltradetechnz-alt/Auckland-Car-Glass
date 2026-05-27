@@ -1,0 +1,3 @@
+# Auckland Car Glass — static site, no build step.
+[build]
+  publish = "."
