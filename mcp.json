@@ -1,0 +1,62 @@
+{
+  "name": "Auckland Car Glass Specialists",
+  "description": "Car windscreen and auto glass replacement across Auckland. Front, side and back glass on all car makes and models. Mobile fitting, same-day service, insurance claims handled.",
+  "website": "https://aucklandcarglass.co.nz",
+  "contact": {
+    "phone": "0800-563-563",
+    "mobile": "021-757-985",
+    "email": "machglass@gmail.com",
+    "hours": "Monday-Friday, 8:00 AM - 5:00 PM"
+  },
+  "services": [
+    {
+      "name": "Windscreen Replacement",
+      "url": "https://aucklandcarglass.co.nz/"
+    },
+    {
+      "name": "Side Glass",
+      "url": "https://aucklandcarglass.co.nz/"
+    },
+    {
+      "name": "Back Glass",
+      "url": "https://aucklandcarglass.co.nz/"
+    },
+    {
+      "name": "Insurance Claims",
+      "url": "https://aucklandcarglass.co.nz/"
+    },
+    {
+      "name": "Mobile Fitting",
+      "url": "https://aucklandcarglass.co.nz/"
+    }
+  ],
+  "specialty": "Car glass for all makes and models",
+  "areas": [
+    "Auckland"
+  ],
+  "insurance_partners": [
+    "AA",
+    "AMI",
+    "AMP",
+    "ANZ",
+    "ASB",
+    "BNZ",
+    "Covi",
+    "FMG",
+    "IAG",
+    "Lumley",
+    "NZI",
+    "QBE",
+    "State",
+    "Vero",
+    "Zurich"
+  ],
+  "key_pages": {
+    "homepage": "https://aucklandcarglass.co.nz/",
+    "contact": "https://aucklandcarglass.co.nz/contact.html"
+  },
+  "sitemap": "https://aucklandcarglass.co.nz/sitemap.xml",
+  "robots": "https://aucklandcarglass.co.nz/robots.txt",
+  "llms": "https://aucklandcarglass.co.nz/llms.txt",
+  "mcp": "https://aucklandcarglass.co.nz/.well-known/mcp.json"
+}
